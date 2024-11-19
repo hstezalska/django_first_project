@@ -1,3 +1,4 @@
 Tytuł projektu: aplikacja testowa gr. 4 </br>
 Autorzy:
-* Hanna Stężalska 
+* Hanna Stężalska
+* Weronika Kwiecień <3
